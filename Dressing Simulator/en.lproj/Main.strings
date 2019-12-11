@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Bust"; ObjectID = "2FH-vx-rtD"; */
+"2FH-vx-rtD.text" = "Bust";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "4No-Qr-kHC"; */
+"4No-Qr-kHC.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "CUZ-Hq-gRv"; */
+"CUZ-Hq-gRv.text" = "20";
+
+/* Class = "UILabel"; text = "40"; ObjectID = "Flv-83-Onr"; */
+"Flv-83-Onr.text" = "40";
+
+/* Class = "UILabel"; text = "Waist"; ObjectID = "G7v-IG-0Yu"; */
+"G7v-IG-0Yu.text" = "Waist";
+
+/* Class = "UILabel"; text = "Hip"; ObjectID = "KyR-uM-q3h"; */
+"KyR-uM-q3h.text" = "Hip";
+
+/* Class = "UILabel"; text = "Select Body Sizes"; ObjectID = "PmV-6L-U0U"; */
+"PmV-6L-U0U.text" = "Select Body Sizes";
+
+/* Class = "UILabel"; text = "Hollow to Helm"; ObjectID = "UeY-vC-6Fl"; */
+"UeY-vC-6Fl.text" = "Hollow to Helm";
+
+/* Class = "UILabel"; text = "Select Dress"; ObjectID = "amI-il-3W3"; */
+"amI-il-3W3.text" = "Select Dress";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "mBF-Bo-4Hv"; */
+"mBF-Bo-4Hv.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "35"; ObjectID = "pM0-OR-4Yj"; */
+"pM0-OR-4Yj.text" = "35";
+
+/* Class = "UILabel"; text = "38"; ObjectID = "rV4-7E-hP8"; */
+"rV4-7E-hP8.text" = "38";
