@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9389583523A1A74600FB3B16 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9389583423A1A74600FB3B16 /* ThirdViewController.swift */; };
+		9389583723A1B45400FB3B16 /* SliderValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9389583623A1B45400FB3B16 /* SliderValues.swift */; };
 		939D51FD23737E1F00AABB11 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939D51FC23737E1F00AABB11 /* AppDelegate.swift */; };
 		939D51FF23737E1F00AABB11 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939D51FE23737E1F00AABB11 /* SceneDelegate.swift */; };
 		939D520123737E1F00AABB11 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 939D520023737E1F00AABB11 /* ViewController.swift */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9389583423A1A74600FB3B16 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		9389583623A1B45400FB3B16 /* SliderValues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderValues.swift; sourceTree = "<group>"; };
 		939D51F923737E1F00AABB11 /* Dressing Simulator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dressing Simulator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		939D51FC23737E1F00AABB11 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		939D51FE23737E1F00AABB11 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +113,8 @@
 				939D520723737E2100AABB11 /* LaunchScreen.storyboard */,
 				939D520A23737E2100AABB11 /* Info.plist */,
 				939D52302373A3C500AABB11 /* SecondViewController.swift */,
+				9389583423A1A74600FB3B16 /* ThirdViewController.swift */,
+				9389583623A1B45400FB3B16 /* SliderValues.swift */,
 			);
 			path = "Dressing Simulator";
 			sourceTree = "<group>";
@@ -264,7 +270,9 @@
 			files = (
 				939D52312373A3C500AABB11 /* SecondViewController.swift in Sources */,
 				939D520123737E1F00AABB11 /* ViewController.swift in Sources */,
+				9389583523A1A74600FB3B16 /* ThirdViewController.swift in Sources */,
 				939D51FD23737E1F00AABB11 /* AppDelegate.swift in Sources */,
+				9389583723A1B45400FB3B16 /* SliderValues.swift in Sources */,
 				939D51FF23737E1F00AABB11 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
